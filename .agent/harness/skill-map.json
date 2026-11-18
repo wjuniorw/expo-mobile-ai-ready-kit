@@ -1,0 +1,8 @@
+{
+  "require_for_code_tasks": true,
+  "rules": [
+    { "match_path": "(^|/)src/core/(ds|ui)/", "skills": ["create-component"] },
+    { "match_path": "(^|/)src/features/", "skills": ["create-feature"] },
+    { "match_keyword": "performance|render|fps|memo|flashlist|reanimated", "skills": ["extreme-software-optimization"] }
+  ]
+}
